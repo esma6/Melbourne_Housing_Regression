@@ -1,1 +1,2 @@
-# Melbourne_Housing_Regression
+# Akbank Makine Öğrenmesi Bootcamp
+Bu proje için Melbourne Housing veri setini projemize yüklememiz gerekiyor. Topladığımız verilerin kalitesi ve miktarı, tahmin modelimizin ne kadar iyi olabileceğini belirleyecektir. Bu nedenle veri setini çok dikkatli incelememiz gerekiyor. Gerçek hayattan bir örnek olan Melbourne Konut veri setini kullanarak bir evin fiyatını tahmin edeceğiz. Herhangi bir maliyeti değerlendirmeden önce, ön işleme tekniklerini kullanarak verileri analiz ederek başlayacağız. Daha sonra modellerimizi oluşturacağız ve projeyi tamamlamak için performanslarını ölçeceğiz.
